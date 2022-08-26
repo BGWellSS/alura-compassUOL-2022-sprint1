@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo-principal {
+    padding-left: 20px;
+}
+.banner {
+    width: 100%;
+}
+.principal {
+    background: #ccc;
+    padding: 30px;
+}
+.font20 {
+    font-size: 20px;
+}
+.txt-center {
+    text-align: center;
+}
+em strong {
+    color: red;
+}
+.beneficios {
+    padding: 20px;
+}
+.beneficios li {
+    font-style: italic;
+    margin-left: 40px;
+}
+.beneficios ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.banner-benef {
+    width: 50%;
+}
